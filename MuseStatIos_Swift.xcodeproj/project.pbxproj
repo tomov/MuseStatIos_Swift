@@ -125,7 +125,7 @@
 				TargetAttributes = {
 					22C23A021DD074C600B83272 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = FF8XS2JGH6;
+						DevelopmentTeam = 83HYM26E6D;
 						LastSwiftMigration = 0810;
 						ProvisioningStyle = Automatic;
 					};
@@ -295,7 +295,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = FF8XS2JGH6;
+				DEVELOPMENT_TEAM = 83HYM26E6D;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -307,7 +307,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Ivan-Rzhanoi.MuseStatIos-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = "momchil.MuseStatIos-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_OBJC_BRIDGING_HEADER = "MuseStatIos_Swift/MuseStatIos_Swift-Bridging-Header.h";
@@ -321,7 +321,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = FF8XS2JGH6;
+				DEVELOPMENT_TEAM = 83HYM26E6D;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -333,7 +333,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "Ivan-Rzhanoi.MuseStatIos-Swift";
+				PRODUCT_BUNDLE_IDENTIFIER = "momchil.MuseStatIos-Swift";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_OBJC_BRIDGING_HEADER = "MuseStatIos_Swift/MuseStatIos_Swift-Bridging-Header.h";
